@@ -1,4 +1,4 @@
-![Naobx](./logo.svg) 
+![Turing](./logo.svg) 
 ####  Android
 Version: v2.1.20    
 Download: [Google Play](https://play.google.com/store/apps/details?id=xyz.turingwallet.app)  

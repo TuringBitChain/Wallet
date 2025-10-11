@@ -1,6 +1,6 @@
 ![Turing](./logo.svg) 
 ####  Android
-Version: v2.2.0    
+Version: v2.2.2   
 Download: [Google Play](https://play.google.com/store/apps/details?id=xyz.turingwallet.app)  
 Version: v2.2.2    
 Download: [Android APK ｜MD5: 8025cbbed038e7bfe447693f66139d1c ](https://cdn.turingwallet.xyz/TuringWallet/TuringWallet_v2.2.2_20251010090014.apk)  
@@ -8,7 +8,7 @@ Security Tip: Please use the MD5 verify the APK to avoid fake App.
 
 ______________________________________________________________________________________________________________________
 ####  iOS
-Version: v2.2.0    
+Version: v2.2.2    
 Download: [App Store](https://apps.apple.com/us/app/turingwallet/id673901912)  
 Download: [TestFlight](https://testflight.apple.com/join/yg3nR1v3)
 

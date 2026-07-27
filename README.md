@@ -4,7 +4,7 @@
 
 Download: [Google Play](https://play.google.com/store/apps/details?id=xyz.turingwallet.app)
 
-Download: [Android APK Version: v2.3.6｜MD5: 6b9a4433a67124279c8bdbeb0cc0944c ](https://cdn.turingwallet.xyz/TuringWallet/TuringWallet_v2.3.6_20260727.apk)
+Download: [Android APK Version: v2.3.7｜MD5: 5c168ce98ae4a45713e46916202003ba ](https://cdn.turingwallet.xyz/TuringWallet/TuringWallet_v2.3.7_20260727.apk)
 
 Security Tip: Please use the MD5 verify the APK to avoid fake App.
 
